@@ -7,7 +7,7 @@ cover: media/images/covers/floristic.jpg
 permalink: /floristic/
 people:
   - name: Floristic
-    url: https://floristic.notion.site/Floristic-82e32386ee20404ca6c9828ff7800732
+    url: https://floristic.notion.site/Jardim-de-Imagin-rios-Manual-do-Jogo-acf998b850744adfad4a01add30c9eca?pvs=4
   - name: Pedro Parrachia
     url: https://www.instagram.com/parrachia/
   - name: Mariana Cantini
